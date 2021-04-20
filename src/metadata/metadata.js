@@ -27,7 +27,7 @@ module.exports = {
 - Tools for integration data sources to lake
 - Tools for analysis of data lake usages
 `,
-      badges: ['C++', 'iOS', 'Android', 'Highload', 'MapReduce', 'Distributed systems']
+      badges: ['python', 'Go', 'Postgres']
     },
     {
       title: 'Software Developer @ Yandex',
@@ -43,7 +43,7 @@ module.exports = {
 - <https://maps.yandex.ru>
 - <https://apps.apple.com/us/app/yandex-navi-navigation-maps/id474500851>
 `,
-      badges: ['python', 'Go', 'Postgres']
+      badges: ['C++', 'iOS', 'Android', 'Highload', 'MapReduce', 'Distributed systems']
     },
   ]
 };
