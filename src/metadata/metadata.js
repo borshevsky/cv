@@ -3,6 +3,7 @@ module.exports = {
   title: 'Software Engineer',
   facts: {
     'Residence': 'Vilnius, Lithuania',
+    'Citizenship': 'Russian',
     'Email': '<a href="mailto:topicnya@gmail.com.com">topicnya@gmail.com</a>'
   },
   skills: [
@@ -21,6 +22,7 @@ module.exports = {
     {
       title: 'Software Engineering Team Lead @ Yandex',
       written: 'Dec 2021 - Now',
+      contents: `Leading development of geonavigation systems`,
       badges: ['C++', 'ML', '', 'iOS', 'Android']
     },
     {
