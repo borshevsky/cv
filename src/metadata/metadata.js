@@ -2,7 +2,7 @@ module.exports = {
   name: 'Dmitry Razdobarin',
   title: 'Software Engineer',
   facts: {
-    'Residence': 'Moscow',
+    'Residence': 'Vilnius, Lithuania',
     'Email': '<a href="mailto:topicnya@gmail.com.com">topicnya@gmail.com</a>'
   },
   skills: [
@@ -19,8 +19,19 @@ module.exports = {
   ],
   plays: [
     {
+      title: 'Software Engineering Team Lead @ Yandex',
+      written: 'Dec 2021 - Now',
+      badges: ['C++', 'ML', '', 'iOS', 'Android']
+    },
+    {
+      title: 'Senior Software Engineer @ MapBox',
+      written: 'Jul 2021 - Dec 2021',
+      contents: `Working on Vision SDK`,
+      badges: ['C++', 'CV', 'Python']
+    },
+    {
       title: 'Lead Software Developer @ leroymerlin.ru',
-      written: 'Sep 2019 - Now',
+      written: 'Sep 2019 - Jul 2021',
       contents: `
 ### Leading and development in Data department.
 - Products based on data analytics
